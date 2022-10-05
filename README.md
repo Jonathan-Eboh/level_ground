@@ -1,8 +1,5 @@
 # level_ground
 
-Level Ground front end!
-I really enjoyed this project. It was the first opportunity I really had to try my hand at CSS Grid
-
 ![level-ground-preview](https://user-images.githubusercontent.com/23227549/194097975-a6ec376c-fb3e-4fc0-a240-05e09d8a6b1a.png)
 
 Link to project: https://void-level-ground-example.netlify.app/
